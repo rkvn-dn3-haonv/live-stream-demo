@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_rtmp_url">srt://10.20.22.164:9998/</string>
+</resources>
